@@ -406,7 +406,7 @@ public final class InputData {
 
   /**
    * Prints <code>message</code> in the terminal and reads the text inserted by
-   * the user. It will print an error message if the text inserted isn't an double
+   * the user. It will print an error message if the text inserted isn't a double
    * or if the double inserted isn't between or equal than <code>min</code> and
    * <code>max</code>.
    *
